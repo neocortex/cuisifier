@@ -1,0 +1,10 @@
+requests==2.8.1
+beautifulsoup4==4.4.1
+Unidecode==0.4.18
+langdetect==1.0.5
+nltk==3.1
+pdfminer==20140328
+rethinkdb==2.1.0.post2
+pyOpenSSL==0.15.1
+ndg-httpsclient==0.4.0
+pyasn1==0.1.9
